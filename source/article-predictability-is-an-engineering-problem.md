@@ -76,6 +76,9 @@ notes:
   - It is safe to quote publicly in short excerpts.
   - It should inform future website copy, keynote framing, book chapter transitions, and executive outreach.
   - This file should remain clean and stable; derivative versions should be created separately.
+created: TODO
+updated: 2026-05-22
+published: 2026-02-03
 ---
 
 # Predictability Is an Engineering Problem, Not an Operations Problem
